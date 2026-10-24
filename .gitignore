@@ -1,0 +1,7 @@
+dist/
+tools/mined/
+platforms/android/debug.keystore
+*.keystore
+node_modules/
+__pycache__/
+.DS_Store
